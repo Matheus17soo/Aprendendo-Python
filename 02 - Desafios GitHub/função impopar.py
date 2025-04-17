@@ -11,3 +11,5 @@ def impopar():
 
 num = int(input('digite um número: '))
 impopar()
+
+# impopar = impar ou par -> imp o par -> impopar
