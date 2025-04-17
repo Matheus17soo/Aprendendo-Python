@@ -32,5 +32,6 @@ else:
         print("APROVADO")
     else:
         print("REPROVADO")
-# Fim do programa
+
 # Autor: Matheus Martins
+# 16 de Abril de 2025
